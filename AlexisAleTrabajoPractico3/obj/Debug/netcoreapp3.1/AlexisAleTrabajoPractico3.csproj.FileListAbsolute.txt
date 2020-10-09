@@ -1,0 +1,13 @@
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\bin\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.exe
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\bin\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.deps.json
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\bin\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.runtimeconfig.json
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\bin\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.runtimeconfig.dev.json
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\bin\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.dll
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\bin\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.pdb
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\obj\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\obj\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.AssemblyInfoInputs.cache
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\obj\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.AssemblyInfo.cs
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\obj\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\obj\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.dll
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\obj\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.pdb
+C:\Users\usuario\source\repos\AlexisAleTrabajoPractico3\obj\Debug\netcoreapp3.1\AlexisAleTrabajoPractico3.genruntimeconfig.cache
